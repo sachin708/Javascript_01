@@ -2,3 +2,12 @@
 let email="sachinmohite708@";
 
 let passward="1234567";
+
+let enter_email="abhimanyu08666@gmail.com";
+let enter_pass="1234567890";
+if(reg_email===enter_email && reg_pass===enter_pass){
+         console.log("login successful");
+}
+else{
+    console.log("wrong credentials");
+}
